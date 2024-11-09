@@ -1,0 +1,21 @@
+body {
+    background-color: #013659;
+    color: #fff;
+}
+
+.kol {
+    width: 100%;
+    margin: 0;
+}
+.koll55 {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.kol1 {
+    margin-left: 5px;
+}
+.same {
+    display: flex;
+}
